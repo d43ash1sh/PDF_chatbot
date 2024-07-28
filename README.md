@@ -15,7 +15,7 @@ This project is a PDF Assistant Bot built using Streamlit, SpaCy, LangChain, and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/pdf-assistant-bot.git
+   git clone https://github.com/d43ash1sh/PDF_chatbot
    cd pdf-assistant-bot
    ```
 
