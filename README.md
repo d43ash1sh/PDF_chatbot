@@ -87,10 +87,6 @@ This is the main file of the project that contains all the code for the PDF Assi
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Acknowledgements
 
 - Streamlit
